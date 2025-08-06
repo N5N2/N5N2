@@ -1,4 +1,4 @@
-# Olá, sou Vinícius 👋
+# Olá, sou o Vinícius 👋
 
 ### 🎯 Objetivo Profissional
 Estou ansioso para aprender, crescer e contribuir. Meu foco é aprender mais sobre **desenvolvimento de software**, **inteligência artificial**, **automação de processos** e como essas tecnologias podem ser aplicadas para melhorar a vida das pessoas e das empresas.
