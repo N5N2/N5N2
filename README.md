@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, sou Vinícius 👋
 
-<!--
-**N5N2/N5N2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Objetivo Profissional
+Estou ansioso para aprender, crescer e contribuir. Meu foco é aprender mais sobre **desenvolvimento de software**, **inteligência artificial**, **automação de processos** e como essas tecnologias podem ser aplicadas para melhorar a vida das pessoas e das empresas.
 
-Here are some ideas to get you started:
+### 💼 Habilidades e Competências
+- **Programação**: HTML, CSS, JavaScript, Python.
+- **Ferramentas**: Git, GitHub, VSCode.
+- **Interesses**: Desenvolvimento Web, Machine Learning, Automação.
+- **Perfil**: Sou uma pessoa analítica, lógica e proativa. Gosto de resolver problemas de maneira prática e eficiente, além de sempre buscar aprender algo novo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Educação e Certificados
+- Cursando **Análise e Desenvolvimento de Sistemas** em **Universidade Cidade de São Paulo - UNICID**.
+
+### 🧠 O que estou aprendendo agora:
+- Como criar sistemas interativos e dinâmicos usando **JavaScript**.
+- Otimização de algoritmos em **Python**.
+- Conceitos básicos de **redes neurais** e **machine learning**.
+
+### 🌱 Em busca de:
+- Oportunidades de crescimento na área de desenvolvimento.
+- Projetos práticos para aplicar o que aprendi.
+- Colaboração com desenvolvedores experientes.
+
+---
+
+Fique à vontade para entrar em contato, discutir novas ideias ou oportunidades!
+
